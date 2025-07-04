@@ -8,6 +8,7 @@ public class Calculator {
         return result;
     }
 
+
     public int subtract(int a, int b) {
         int result = a - b;
         System.out.println("Subtracting " + a + " - " + b + " = " + result);
